@@ -1,0 +1,30 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 274 137" width="274" height="137">
+	<title>Platform Features</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2f3238 } 
+		.shp1 { fill: #26e6e6 } 
+		.txt2 { font-size: 18px;line-height: 26px;fill: #232323;font-weight: 300;font-family: "Montserrat-Light", "Montserrat" } 
+		.txt3 { font-size: 14px;line-height: 22px;fill: #232323;font-weight: 300;font-family: "Montserrat-Light", "Montserrat" } 
+	</style>
+	<g id="Platform Features">
+		<g id="Dashboard">
+			<g id="gouge">
+				<path id="black" class="shp0" d="M4 42L49 42C49.55 42 50 42.45 50 43C50 43.55 49.55 44 49 44L5 44C4.45 44 4 43.55 4 43C4 42.45 3.45 42 4 42ZM16 48L52 48C52.55 48 52.47 48.71 52 49C50.87 49.68 51.55 50 51 50L16 50C15.45 50 15 49.55 15 49C15 48.45 15.45 48 16 48ZM33 -0.01L33 0C32.45 0 32 0.45 32 1C32 1.56 32.45 2.01 33 2.01L33 2.01C47.05 3.52 58 15.43 58 29.92C58 45.43 45.46 57.99 30 57.99C14.54 57.99 2 45.43 2 29.92C2 15.43 12.95 3.52 27 2.01L27 2.01C27.55 2.01 28 1.56 28 1C28 0.45 27.55 0 27 0L27 -0.01C11.84 1.5 0 14.33 0 29.92C0 46.53 13.43 60 30 60C46.57 60 60 46.53 60 29.92C60 14.33 48.16 1.5 33 -0.01ZM53 31C52.45 31 52 30.55 52 30C52 17.85 42.15 8 30 8C17.85 8 8 17.85 8 30C8 30.55 7.55 31 7 31C6.45 31 6 30.55 6 30C6 16.74 16.75 6 30 6C43.25 6 54 16.74 54 30C54 30.55 53.55 31 53 31Z" />
+				<path id="blue" class="shp1" d="M30 14C30.55 14 31 14.45 31 15L31 37C31 37.55 30.55 38 30 38C29.45 38 29 37.55 29 37L29 15C29 14.45 29.45 14 30 14Z" />
+			</g>
+			<text id="Dashboard " style="transform: matrix(1,0,0,1,77.532,14.968)" >
+				<tspan x="0" y="0" class="txt2">D</tspan><tspan  y="0" class="txt2">ashboard
+</tspan>
+			</text>
+			<text id="Looking cautiously round, to asc" style="opacity: 0.502;transform: matrix(1,0,0,1,81,35.612)" >
+				<tspan x="0" y="9.8" class="txt3">L</tspan><tspan  y="9.8" class="txt3">ooking cautiously round, to </tspan>
+				<tspan x="0" y="31.8" class="txt3">ascertain that they were not </tspan>
+				<tspan x="0" y="53.8" class="txt3">overheard, the two hags </tspan>
+				<tspan x="0" y="75.8" class="txt3">cowered nearer to the fire, </tspan>
+				<tspan x="0" y="97.8" class="txt3">and chuckled heartily.
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>

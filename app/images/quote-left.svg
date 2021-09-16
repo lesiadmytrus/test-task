@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 17" width="24" height="17">
+	<title>Quotes</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.2;fill: #232323 } 
+	</style>
+	<g id="Quotes">
+		<g id="Quote 1">
+			<path id="“" class="shp0" d="M10.7 0.3L6.3 0.3L1.6 7.5C0.7 8.9 0.1 10.2 0.1 11.8C0.1 15 2.3 16.9 4.9 16.9C7.6 16.9 9.6 14.8 9.6 11.9C9.6 10.1 8.9 8.5 7.4 7.6L10.7 0.3ZM23.3 0.3L18.9 0.3L14.2 7.5C13.3 8.9 12.7 10.2 12.7 11.8C12.7 15 14.9 16.9 17.5 16.9C20.2 16.9 22.2 14.8 22.2 11.9C22.2 10.1 21.5 8.5 20 7.6L23.3 0.3Z" />
+		</g>
+	</g>
+</svg>

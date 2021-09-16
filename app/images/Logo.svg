@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 30" width="33" height="30">
+	<title>Header Menu</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #232323;stroke-width: 2 } 
+	</style>
+	<g id="Header Menu">
+		<g id="Logo">
+			<path id="Shape 1" class="shp0" d="M16.4 0L0 19.05L16.4 30L33 18.85L16.4 0Z" />
+			<path id="Rectangle 1" class="shp0" d="M16 1L17 1L17 29L16 29L16 1Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 46" width="60" height="46">
+	<title>Features with big icons</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2f3238 } 
+		.shp1 { fill: #26e6e6 } 
+	</style>
+	<g id="Features with big icons">
+		<g id="First">
+			<g id="mail">
+				<path id="black" class="shp0" d="M56 46L4 46C1.79 46 0 44.21 0 42L0 7C0 6.45 0.45 6 1 6C1.55 6 2 6.45 2 7L2 42C2 43.1 2.9 44 4 44L56 44C57.1 44 58 43.1 58 42L58 4C58 2.89 57.1 2 56 2L1 2C0.45 2 0 1.55 0 1C0 0.45 0.45 0 1 0L56 0C58.21 0 60 1.79 60 4L60 42C60 44.21 58.21 46 56 46Z" />
+				<path id="blue" class="shp1" d="M53.69 6.28C54.08 6.67 54.08 7.3 53.69 7.69L30.69 30.69C30.3 31.08 29.67 31.08 29.28 30.69C28.89 30.3 28.89 29.67 29.28 29.27L52.28 6.28C52.67 5.89 53.3 5.89 53.69 6.28ZM6.31 6.28C5.92 6.67 5.92 7.3 6.31 7.69L29.31 30.69C29.7 31.08 30.33 31.08 30.72 30.69C31.11 30.3 31.11 29.67 30.72 29.27L7.72 6.28C7.33 5.89 6.7 5.89 6.31 6.28Z" />
+			</g>
+		</g>
+	</g>
+</svg>
